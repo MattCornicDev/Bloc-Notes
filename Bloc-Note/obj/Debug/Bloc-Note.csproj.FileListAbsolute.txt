@@ -1,0 +1,10 @@
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\bin\Debug\Bloc-Note.exe.config
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\bin\Debug\Bloc-Note.exe
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\bin\Debug\Bloc-Note.pdb
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc-Note.csprojAssemblyReference.cache
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc_Note.Properties.Resources.resources
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc-Note.csproj.GenerateResource.cache
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc-Note.csproj.CoreCompileInputs.cache
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc-Note.exe
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc-Note.pdb
+C:\Users\mattc\source\repos\Bloc-Note\Bloc-Note\obj\Debug\Bloc_Note.MainForm.resources
