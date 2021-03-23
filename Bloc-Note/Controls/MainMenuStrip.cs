@@ -7,18 +7,18 @@ using System.Windows.Forms;
 
 namespace Bloc_Note.Controls
 {
-    class MainMenuStrip : MenuStrip
+    public class MainMenuStrip : MenuStrip
     {
+        private const string NAME = "MainMenuStrip";
         public MainMenuStrip()
         {
-            Name = "MainMenuStrip";
+            Name = NAME;
             Dock = DockStyle.Top;
 
             FileDropDownMenu();
             EditDropDownMenu();
             FormatDropDownMenu();
             ViewDropDownMenu();
-
         }
 
         public void FileDropDownMenu()
@@ -80,7 +80,7 @@ namespace Bloc_Note.Controls
             zoomDropDownMenu.DropDownItems.AddRange(new ToolStripItem[] { zoomInMenu, zoomOutMenu, zoomResetMenu });
 
             ViewDropDownMenu.DropDownItems.AddRange(new ToolStripItem[] { alwaysOnTopMenu, zoomDropDownMenu });
-
+            
             Items.Add(ViewDropDownMenu);
         }
     }

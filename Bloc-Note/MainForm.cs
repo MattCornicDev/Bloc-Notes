@@ -16,8 +16,13 @@ namespace Bloc_Note
         public MainForm()
         {
             InitializeComponent();
-            MainMenuStrip menuStrip = new MainMenuStrip();
-            Controls.Add(menuStrip);
+
+            var menuStrip = new MainMenuStrip();
+            var mainTabControl = new MainTabControl();
+
+            mainTabControl.TabPages.Add("Onglet 1");
+
+            Controls.AddRange(new Control[] { mainTabControl, menuStrip });
         }
     }
 }
